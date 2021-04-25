@@ -5,5 +5,5 @@ Not all users will want to actively maintain these. So here at least a cross-ref
 
 ## project list
 
-* [MEMS microphone amplifier 1kHz .. 80kHz Bandwidth for Bat Monitoring](https://dev.makecahoots.net/index.php/projects-guest/bat-monitor-mems-microphone-and-amplifier-1khz-80khz-bandwidth)
-* [MPC One battery stand](https://dev.makecahoots.net/index.php/projects-guest/mpc-one-battery-stand)
+* [MEMS microphone amplifier 1kHz .. 80kHz Bandwidth for Bat Monitoring](https://makecahoots.net/index.php/projects-guest/bat-monitor-mems-microphone-and-amplifier-1khz-80khz-bandwidth)
+* [MPC One battery stand](https://makecahoots.net/index.php/projects-guest/mpc-one-battery-stand)
